@@ -1,0 +1,8 @@
+{
+  "dialogs/2025-06-28-docker.md": {
+    "intent": "Docker CLI без GUI",
+    "importance": 3,
+    "status": "active",
+    "tags": ["docker", "cli", "rust"]
+  }
+}
