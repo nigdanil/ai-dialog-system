@@ -1,0 +1,44 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code settings (optional)
+.vscode/
+*.code-workspace
+
+# OS generated files
+*.log
+*.tmp
+*.bak
+
+# Compiled files / build artifacts (если будут)
+*.out
+*.o
+*.obj
+*.exe
+*.class
+*.pyc
+__pycache__/
+
+# Archives and backups
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.bak
+*.swp
+
+# Node/Rust/etc. (если планируешь что-то встроенное позже)
+node_modules/
+dist/
+target/
+
+# Personal notes or test dumps
+notes/
+sandbox/
+*.test.md
+
+# Project-specific ignored folders
+# - Например, временные черновики логов
+drafts/
