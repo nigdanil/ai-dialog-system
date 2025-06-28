@@ -1,0 +1,10 @@
+{
+  "intents": [
+    "architecture",
+    "debugging",
+    "research",
+    "deployment",
+    "prompting",
+    "summarization"
+  ]
+}
